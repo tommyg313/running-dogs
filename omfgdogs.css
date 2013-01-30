@@ -1,0 +1,15 @@
+body {
+	background-image: url('assets/omfgdogs.gif'); 
+	background-repeat: repeat;
+}
+
+#the-link {
+	font-family: "Calibri",Calabri,Arial,serif;
+	font-size: 100px;
+	color: white;
+	font-weight: bold;
+	position: absolute;
+	bottom: 0;
+	margin-left: 70%;
+	
+}
